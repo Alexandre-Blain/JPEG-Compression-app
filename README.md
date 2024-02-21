@@ -1,17 +1,4 @@
 # Compression JPEG
-## Présentation
-Ce projet a été réalisé dans le cadre du cours d'_Image_, afin de comprendre le fonctionnement de la compression JPEG.
-
-Les membres du groupe par ordre alphabétique de leur nom de famille sont :
-- Alexandre Blain
-- Paul Corbalan
-- Johan Lagardère
-- Younès Loulidi
-
-Les principaux fichiers sont :
-- Notebook Jupyter ayant pour but de servir de rapport interactif : `notebook.ipynb`
-- Support de présentation interactif : `presentation.ipynb`
-
 ## Installation
 ### Environment Python
 #### Utilisation de Python 3.8
